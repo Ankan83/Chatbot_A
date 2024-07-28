@@ -1,0 +1,119 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+/* Blogs Css */
+body {
+    margin: revert;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    margin-left: -7.7px;
+    margin-right: -7.7px;
+}
+
+footer {
+    display: inline-flex;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.section-padding {
+    padding: 70px;
+}
+
+.services {
+    background: linear-gradient(30deg, #EEFE81, #fff);
+}
+
+.lets-start {
+    background: linear-gradient(30deg, #C1E2FF, #fff);
+}
+
+.service-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    color: #070A57;
+}
+
+u {
+    text-decoration: underline #070A57 solid;
+}
+
+section.services {
+    text-align: justify;
+    margin-top: -70px;
+}
+
+.card-row-gap {
+    padding-bottom: 2rem;
+}
+
+.service-block-card {
+    width: 18rem;
+    margin-bottom: 5%;
+}
+
+.card-body {
+    background-color: #ffebef;
+}
+
+.card-title {
+    font-family: 'Playfair-Display';
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 3px;
+}
+
+.card-title::after {
+    content: '';
+    display: block;
+    margin-top: 0.5em;
+    width: 30px;
+    height: 5px;
+    background-color: black;
+}
+
+.card-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 12.8px;
+    padding-top: 10px;
+    line-height: 2;
+    padding: 3px;
+}
+
+.card-link {
+    display: inline-flex;
+    font-family: 'Poppins';
+    font-size: 13.6px;
+    font-weight: 700;
+    color: #8C5450;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.card-link:hover {
+    color: #8C5450;
+    background-color: rgb(80, 183, 234);
+    box-shadow: 0px 0px 1px 1px;
+    padding: 3px;
+    transition: 0.7s;
+}
+
+.highlight {
+    color: #C73260;
+}
+
+#bottombutton a {
+    color: white;
+}
+
+h2.col-md-6 {
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}

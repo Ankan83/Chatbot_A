@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="icon" type="image/png" href="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png">
+    <link rel="stylesheet" href="../css/dashboard.css">
+    <script src="../js/dashboard.js"></script>
+</head>
+<body>
+    <header id = "menu">
+        <button id="menu-btn">&#9776; </button>
+        <button id="signout-btn" onclick="()">Sign Out</button>        
+        <header id="dashboard">
+            <h1>Dashboard</h1>
+        </header>
+    </header>
+
+    <div id="overlayMenu" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" id="closeBtn">&times;</a>
+        <div class="overlay-content">
+            <img src="../assets/profile1.jpg" alt="Profile Picture" id="profilePic">
+            <a href="#">Home</a>
+            <a href="#">Reports</a>
+            <a href=resume.html>Resume</a>
+            <a href="#">Settings</a>
+            <a href=help.html>Help</a>
+        </div>
+    </div>
+
+    
+    <main>
+        <section id="user-info">
+            <h2>User Information</h2>
+            <p>Welcome, [Username] <!-- username fetch from backend --> </p>
+            
+        </section>
+
+
+        <section id="UpcomingTest">
+            <h2>Upcoming Test</h2>
+            <h3>TEST DETAILS</h3>
+            <h4>Subject: XYZ</h4>
+            <h4>Time: X mins</h4>
+
+            <section id="timer">
+                <h2>Time to Start</h2>
+                <h3>00:00:00</h3>
+                <!-- timer code -->
+                <a href="http://localhost:7860" target="_blank"><button id="start-btn">Start Test</button></a>
+            </section>
+        </section>
+
+                <section id="assignment-upload">
+            <h2>Assignment Upload</h2>
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <label for="assignment">Choose Assignment File:</label>
+                <input type="file" id="assignment" name="assignment" required>
+                <button type="submit">Upload Assignment</button>
+            </form>
+        </section>
+
+        <section id="question-answering">
+            <h2>Company/University Question Answering</h2>
+            <form action="/ask" method="post">
+                <label for="question">Enter your question:</label>
+                <textarea id="question" name="question" rows="4" cols="50" required></textarea>
+                <button type="submit">Submit Question</button>
+            </form>
+        </section>
+        
+    </main>
+    <footer>
+        <p>&copy; 2024 Resu-ALT. All rights reserved.</p>
+    </footer>
+    <script src="../js/dashboard.js"></script>
+</body>
+</html>

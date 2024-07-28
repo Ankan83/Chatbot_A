@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-05-26T19:49:29.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aQfS1Ocri45JoBQuTk7e" version="24.4.8" type="github">
+  <diagram name="Page-1" id="levlxRdsv0RBj5wYn_LF">
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="650" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-9" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="650" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-10" value="Contact us" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-13" value="Company&#39;s name with logo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="81" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-15" value="About us" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="271" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-16" value="Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="351" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-17" value="One more thingy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="431" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Let&#39;s get started button&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="140" y="200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-20" value="Heading&lt;br&gt;&lt;br&gt;Some interesting text about our service or tell about us in 1 line" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-21" value="&lt;sup&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Image&lt;/font&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="420" y="100" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Services of our product&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="110" y="310" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-26" value="Heading related to image&lt;br&gt;&lt;br&gt;Interesting text related to image and explaining about it" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="416" as="sourcePoint" />
+            <mxPoint x="730" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Usage of our product&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-29" value="Heading related to image&lt;br&gt;&lt;br&gt;Interesting text related to image and explaining about it" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="543" as="sourcePoint" />
+            <mxPoint x="731" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="286" as="sourcePoint" />
+            <mxPoint x="731" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="690" as="sourcePoint" />
+            <mxPoint x="730" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="900" width="650" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-39" value="Footer for the company like copyright, terms policy, etc." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="81" y="900" width="359" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-40" value="Logos of different sites where you connect with us or lookup at" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="510" y="900" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-41" value="&lt;sup&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Benefits and advantages for using our product&lt;/font&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="110" y="570" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-42" value="Heading related to image&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interesting text related to image and explaining about it&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="400" y="575" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Company&#39;s Name&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="710" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Description of the company or about us&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="400" y="710" width="289" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nYmXPnhyYEbwNrwyuGFq-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Let&#39;s get started button&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="121" y="800" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

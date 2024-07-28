@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeededf4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url("RESU-ALT IMAGE.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.wrapper {
+    margin-top: -4rem;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.logo img {
+    margin: 5%;
+    padding: 3%;
+    height: 70px;
+    width: 70px;
+    border-radius: 20%;
+}
+
+.container {
+    background-color: transparent;
+    padding: 1.8rem;
+    border-radius: 6%;
+    box-shadow: 0 0 10px rgba(201, 137, 228, 0.958);
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: -9px;
+    margin-bottom: 1.33rem;
+}
+
+.input-group {
+    margin-bottom: 2rem;
+    text-align: left;
+    position: relative;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group i {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(20%);
+    font-size: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #5283ef;
+    border: none;
+    border-radius: 4px;
+    color: rgb(233, 225, 225);
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #545bea;
+}
+
+.links {
+    margin-top: 1rem;
+}
+
+.links a {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #030609ee;
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}

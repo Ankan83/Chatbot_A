@@ -1,0 +1,65 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+
+/* About Css */
+body {
+    margin: revert;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    margin-left: -7.7px;
+    margin-right: -7.7px;
+}
+
+footer {
+    display: inline-flex;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.section-padding {
+    padding: 70px;
+}
+
+.service-type {
+    background: linear-gradient(37deg, #FFC1CF, #fff);
+}
+
+.lets-start {
+    background: linear-gradient(30deg, #C1E2FF, #fff);
+}
+
+.service-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    color: #070A57;
+}
+
+section.service-type {
+    margin-top: -70px;
+}
+
+.service-type-gap {
+ padding-bottom: 8rem;
+}
+
+.service-type-gap h2 {
+    text-align: center;
+    text-decoration: underline black solid;
+}
+
+.highlight {
+    color: #c73260;
+}
+
+#bottombutton a {
+    color: white;
+}
+
+h2.col-md-6 {
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}
